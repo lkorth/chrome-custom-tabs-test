@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chrome Custom Tab Test</string>
+    <string name="url">URL</string>
+    <string name="launch_chrome_custom_tab">Launch Chrome Custom Tab</string>
+</resources>
